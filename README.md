@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Harsh 👋
 
-<!--
-**loserharsh/loserharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Class 12 student from India who enjoys building things, solving problems, and learning by doing.
 
-Here are some ideas to get you started:
+What I'm into
+💻 Python, C++, and Computer Science
+🎮 Game development (currently inspired by Hollow Knight)
+🎬 Video editing, thumbnails, and streaming content
+🤖 AI, automation, and computer vision
+🖥️ PC hardware and Linux customization
+⚡ Physics and engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for stopping by!
